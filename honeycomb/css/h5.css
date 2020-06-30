@@ -1,0 +1,16 @@
+/**横**/
+@media only screen and (min-width:768px) and (max-width: 1024px){}
+
+/**竖**/
+@media only screen and (max-width: 1000px) and (min-width: 768px){
+	.top .box{width: 96%;display: block;overflow: hidden;min-width: none;}
+	.top .box .top-r{display: none;}
+	
+	
+}
+
+
+
+/**手机**/
+@media only screen and (max-width: 760px){}
+
